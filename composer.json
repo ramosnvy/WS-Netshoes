@@ -1,0 +1,19 @@
+{
+    "name": "pedroramos/estagio",
+    "autoload": {
+        "psr-4": {
+            "Pedroramos\\Estagio\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Pedro",
+            "email": "pedroaugustoramossousa@gmail.com"
+        }
+    ],
+    "require": {
+        "symfony/dom-crawler": "^6.2",
+        "guzzlehttp/guzzle": "^7.5",
+      "ext-dom": "*"
+    }
+}

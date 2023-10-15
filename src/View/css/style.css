@@ -1,0 +1,26 @@
+body{
+    background-color: blueviolet;
+}
+
+.pesquisa{
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
+#labelName{
+    width:300px;
+}
+
+.card-group{
+    margin-top: 2em;
+}
+
+.card-img-top {
+    width: 50%;
+    height: 30vh;
+    object-fit: contain;
+}
+
+.submit{
+    margin-top: 2em;
+}
